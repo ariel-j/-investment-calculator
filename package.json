@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "description": "Interactive investment calculator with historical market data",
   "private": true,
+  "homepage": "https://ariel-j.github.io/-investment-calculator",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "recharts": "^2.7.2",
-    "lodash": "^4.17.21",
-    "homepage": "https://ariel-j.github.io/-investment-calculator",
-
+    "lodash": "^4.17.21"
   },
   "scripts": {
     "start": "react-scripts start",
